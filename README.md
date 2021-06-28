@@ -18,8 +18,8 @@
 
 - Cadastro de elogios
 
-  [] Não é permitido um usuário cadastrar um elogio para si próprio
+  [X] Não é permitido um usuário cadastrar um elogio para si próprio
 
-  [] Não é permitido cadastrar elogios para usuários inválidos
+  [X] Não é permitido cadastrar elogios para usuários inválidos
 
   [] O usuário precisa estar autenticado
